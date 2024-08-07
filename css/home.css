@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+col{
+    border: 1px solid black;
+}
+
+row{
+    border: 1px solid black;
+}
+
